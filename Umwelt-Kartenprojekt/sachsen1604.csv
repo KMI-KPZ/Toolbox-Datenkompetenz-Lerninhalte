@@ -1,0 +1,4 @@
+﻿"Bundesland / Messnetz";Stationscode;Stationsname;Stationsumgebung;"Art der Station";Schadstoff;"Art der Auswertung";Datum;Uhrzeit;Messwert;Einheit;Koordinaten
+Sachsen;DESN025;Leipzig-Mitte;"städtisches Gebiet";Verkehr;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";16.04.2024;-;7;µg/m³;51.3399245430177, 12.376188426395611
+Sachsen;DESN059;Leipzig-West;"vorstädtisches Gebiet";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";16.04.2024;-;4;µg/m³;51.33173426111588, 12.335482033453422
+Sachsen;DESN077;"Leipzig Lützner Str.";"städtisches Gebiet";Verkehr;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";16.04.2024;-;10;µg/m³;51.345307844335196, 12.42239220746719

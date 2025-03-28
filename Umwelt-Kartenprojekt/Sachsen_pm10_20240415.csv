@@ -1,0 +1,19 @@
+﻿"Bundesland / Messnetz";Stationscode;Stationsname;Stationsumgebung;"Art der Station";Schadstoff;"Art der Auswertung";Datum;Uhrzeit;Messwert;Einheit
+Sachsen;DESN001;Annaberg-Buchholz;"städtisches Gebiet";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;10;µg/m³
+Sachsen;DESN004;Bautzen;"städtisches Gebiet";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;10;µg/m³
+Sachsen;DESN020;Görlitz;"städtisches Gebiet";Verkehr;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;11;µg/m³
+Sachsen;DESN024;Klingenthal;"städtisches Gebiet";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;9;µg/m³
+Sachsen;DESN025;Leipzig-Mitte;"städtisches Gebiet";Verkehr;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;13;µg/m³
+Sachsen;DESN049;Carlsfeld;"ländlich abgelegen";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;7;µg/m³
+Sachsen;DESN051;Radebeul-Wahnsdorf;"ländlich stadtnah";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;9;µg/m³
+Sachsen;DESN059;Leipzig-West;"vorstädtisches Gebiet";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;8;µg/m³
+Sachsen;DESN074;Schwartenberg;"ländlich regional";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;11;µg/m³
+Sachsen;DESN075;Plauen-Süd;"städtisches Gebiet";Verkehr;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;10;µg/m³
+Sachsen;DESN077;"Leipzig Lützner Str.";"städtisches Gebiet";Verkehr;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;12;µg/m³
+Sachsen;DESN079;Niesky;"ländlich regional";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;7;µg/m³
+Sachsen;DESN083;"Chemnitz-Leipziger Str.";"städtisches Gebiet";Verkehr;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;11;µg/m³
+Sachsen;DESN084;Dresden-Bergstr.;"städtisches Gebiet";Verkehr;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;13;µg/m³
+Sachsen;DESN092;Dresden-Winckelmannstr.;"städtisches Gebiet";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;17;µg/m³
+Sachsen;DESN130;Liebschützberg;"ländlich abgelegen";Hintergrund;"Feinstaub (PM₁₀)";"Tagesmittel (1TMW)";14.04.2024;-;8;µg/m³
+
+"Quelle: Umweltbundesamt, https://www.umweltbundesamt.de/daten/luft/luftdaten/stationen (Abruf: 15.04.2024). Alle Uhrzeiten sind in der jeweils zum Messzeitpunkt gültigen Zeit (MEZ bzw. MESZ) angegeben."

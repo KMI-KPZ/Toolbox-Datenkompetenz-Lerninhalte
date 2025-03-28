@@ -1,0 +1,11 @@
+﻿Bundesland / Messnetz;Stationscode;Stationsname;Stationsumgebung;Art der Station;Schadstoff;Art der Auswertung;Datum;Uhrzeit;Messwert;Einheit;Koordinaten
+Sachsen;FAKE077;Goerdelring Mitte;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;100;µg/m³;51.344261, 12.371120
+Sachsen;FAKE079;Münzgasse;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;30;µg/m³;51.332904, 12.373652
+Sachsen;FAKE081;Goerdelerring Nord;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;40;µg/m³;51.344809, 12.371491
+Sachsen;FAKE083;Goerdelerring West;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;32;µg/m³;51.344239, 12.369720
+Sachsen;FAKE085;Hauptbahnhof Ostseite;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;30;µg/m³;51.34398, 12.38335
+Sachsen;FAKE087;Hauptbahnhof Westseite;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;27;µg/m³;51.34556, 12.37897
+Sachsen;FAKE089;Johannisplatz;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;40;µg/m³;51.33783, 12.38629
+Sachsen;FAKE091;Hauptbahnhof Tramhof;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;22;µg/m³;51.343989, 12.380165
+Sachsen;FAKE093;Clara Park;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;1;µg/m³;51.33007, 12.35872
+Sachsen;FAKE095;Kolonnadenviertel;städtisches Gebiet;Verkehr;Feinstaub (PM₁₀);Tagesmittel (1TMW);16.04.2024;-;15;µg/m³;51.33813, 12.36812
