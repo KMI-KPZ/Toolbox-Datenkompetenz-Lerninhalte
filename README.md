@@ -7,3 +7,8 @@ Jedes dieser Trainings hat einen eigenen Fokus:
 - In „Datenprojekt (Umwelt-)Karten erstellen“ werden Luftverschmutzungsdaten abgerufen, aufbereitet, in einer Karte dargestellt und dabei aufgezeigt, wie Schleifen, Bedingungen und Funktionen das Arbeiten mit größeren Datenmengen erheblich erleichtern können. 
 
 Die Trainings können natürlich gerne individualisiert und „nach-gecodet“ werden. 
+
+
+Die Toolbox Datenkompetenz ist ein vom BMBF und der EU gefördertes Forschungsprojekt. Während der Projektlaufzeit wird der Aufbau der Toolbox Datenkompetenz durch wissenschaftliche Forschung seitens des Instituts für Angewandte Informatik e. V. begleitet. Die hier aufgeführten Lerninhalte wurden von diesem Forschungsteam entwickelt. 
+Das Förderkennzeichen des BMBF lautet: 16DWCQP01A
+
